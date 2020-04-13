@@ -2,7 +2,7 @@
 
 ## Usage
     $ xsltproc xsl/tasks.xsl samples/project1.planner
-    $ xsltproc xsl/automatic_resource_leveling.xsl samples/project2.planner -o out.planner
+    $ xsltproc -o out.planner xsl/automatic_resource_leveling.xsl samples/project2.planner
 
 ## See also
 - [Planner](https://wiki.gnome.org/Apps/Planner)
