@@ -3,6 +3,7 @@
 ## Usage
     $ xsltproc xsl/tasks.xsl samples/project1.planner
     $ xsltproc -o out.planner xsl/calendar_template.xsl samples/project1.planner
+    ($ xsltproc xsl/calendar_template.xsl samples/project1.planner > out.planner)
     $ xsltproc -o out.planner xsl/assign_me.xsl samples/project1.planner
     $ xsltproc -o out.planner xsl/automatic_resource_leveling.xsl samples/project1.planner
 
