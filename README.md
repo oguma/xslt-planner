@@ -1,4 +1,4 @@
-# planner-xsl
+# xslt-planner
 
 ## Usage
     $ xsltproc xsl/tasks.xsl samples/project1.planner
